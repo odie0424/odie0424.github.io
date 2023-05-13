@@ -1,0 +1,24 @@
+Damn Small Linux
+https://idealtimeclock.com/v86/?profile=dsl
+dsl-4.11.rc2.iso
+
+KolibriOS
+https://idealtimeclock.com/v86/?profile=kolibrios
+kolibri.img
+
+QNX
+https://idealtimeclock.com/v86/?profile=qnx
+qnx-demo-network-4.05.img
+
+Solar OS
+https://idealtimeclock.com/v86/?profile=solos
+os8.img
+
+
+
+
+
+
+
+
+
